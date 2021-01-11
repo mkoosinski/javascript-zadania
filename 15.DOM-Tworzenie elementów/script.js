@@ -181,6 +181,8 @@ form.appendChild(button2)
 button.innerHTML = 'Więcej'
 button2.innerHTML = "Utwórz"
 
+---
+
 //zadanie 10
 
 ---
