@@ -24,4 +24,4 @@ console.log(sum)
 let nothing;
 console.log(nothing)
 
-//wynik undefined ponieważ nie przypisaliśmy wartości do zmienne
+//wynik undefined ponieważ nie przypisaliśmy wartości do zmiennej
