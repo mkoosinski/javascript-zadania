@@ -1,5 +1,5 @@
 //zadanie 1
-
+ 
 function xyz(){
     console.log("Udało Się!");
 }
