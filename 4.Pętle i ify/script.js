@@ -32,7 +32,7 @@ for(let i = 0; i < 10; i++) {
   console.log('Lubie JavaScript')
 }
 
-//zadanie 4
+//zadanie 4 
 
 let result = 0
 
