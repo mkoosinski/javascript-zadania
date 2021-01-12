@@ -1,4 +1,4 @@
-// Zadanie 1
+// Zadanie 1 
 //Wypisuj w konsoli co 3 sekundy napis "Cześć po raz " oraz liczbę powtóżeń. Jeśli Licznik dojdzie do 15 zatrzymaj go.
 
 let i = 1;
