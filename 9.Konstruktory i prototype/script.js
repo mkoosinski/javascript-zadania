@@ -3,7 +3,7 @@
 function Person(firstName, surname, age, nationality, city, language) {
     this.firstName = firstName;
     this.surname = surname;
-    this.age = age;
+    this.age = age; 
     this.diffrentAge = function (diffrentAge) {
         return (this.age = diffrentAge);
     }
