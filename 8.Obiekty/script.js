@@ -1,4 +1,4 @@
-//zadanie 1 
+//zadanie 1  
 
 let car = {
     name: 'Honda',
