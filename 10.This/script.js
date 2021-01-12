@@ -27,7 +27,7 @@ const person2 = {
         this.age++
     },
 }
-
+ 
 person2.showInformation();
 person.showInformation();
 person.addAge();
