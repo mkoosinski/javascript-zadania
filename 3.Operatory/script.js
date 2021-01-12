@@ -38,6 +38,7 @@ console.log(counter)
 counter--
 console.log(counter)
 
+
 //zadanie 6
 
 let firstNumber = 2
