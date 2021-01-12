@@ -97,7 +97,7 @@ const xyz = (randomNumber) => {
 xyz(Math.round(Math.random()*10));
 
 //zadanie 10
-
+ 
 let longListID = document.getElementById('longList');
 function xyz(longListID) {
         let ArrWithLongListValue = [];
