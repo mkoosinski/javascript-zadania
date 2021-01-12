@@ -1,3 +1,4 @@
+
 //zadanie 1
 
 console.log('Mateusz')
