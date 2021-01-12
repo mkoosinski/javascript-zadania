@@ -96,7 +96,7 @@ divElements.forEach(changeColor => {
 })
 
 
-//5.5
+//5.5 
 
 divElements.forEach(changeColor => {
     changeColor.addEventListener('mouseover', event => {
