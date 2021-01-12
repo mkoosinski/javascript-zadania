@@ -128,5 +128,5 @@ calcButtons.forEach((button) => {
         if (['/', '*', '+', '-'].includes(e.target.innerText)) {
             calcEval = true;
         }
-    });
+    }); 
 });
