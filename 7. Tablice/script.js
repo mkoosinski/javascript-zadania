@@ -1,5 +1,5 @@
 // zadanie 1
-
+ 
 let xyz = [1, "dog", 2, "cat"]
 for (let i = 0; i<xyz.length;i++) {
     console.log(xyz[i])
