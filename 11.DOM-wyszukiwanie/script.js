@@ -26,3 +26,4 @@ xyz(document.getElementsByTagName('ul'))
 xyz(document.getElementsByTagName('span'))
 xyz(document.querySelectorAll('.list span'))
 xyz(document.querySelectorAll(' #spans span'))
+ 
